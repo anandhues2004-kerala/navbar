@@ -46,8 +46,7 @@ project-folder/
 ```
 preview
 
-live
-[live]()
+[live](https://anandhues2004-kerala.github.io/navbar/)
 
 ![img](image-1.png)
 
